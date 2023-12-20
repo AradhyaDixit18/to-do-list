@@ -90,3 +90,12 @@ h1 {
   cursor: pointer;
 }
  
+
+.footer{
+  display: flex; justify-content: center; color: white; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 15px;
+}
+
+.heart{
+  color: red;
+}
